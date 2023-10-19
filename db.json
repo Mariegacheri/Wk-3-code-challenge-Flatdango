@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "name": "THE CREATOR",
+      "color": "Black",
+      "price": 950,
+      "qty": 500,
+      "image": "https://centurycinemax.co.ke/storage/uploads/njYbtJzy.jpg"
+    },
+    {
+      "name": "BARBIE THE MOVIE",
+      "color": "White",
+      "price": 900,
+      "qty": 200,
+      "image": "https://centurycinemax.co.ke/storage/uploads/BG1yDE9K.jpg"
+    },
+    {
+      "name": "LEO",
+      "color": "Khaki",
+      "price": 900,
+      "qty": 100,
+      "image": "https://centurycinemax.co.ke/storage/uploads/zZbaaqEM.jpg"
+    },
+    {
+      "name": "THE EXORCIST",
+      "color": "5.00pm to 8.00pm",
+      "price": 950,
+      "qty": 30,
+      "image": "https://centurycinemax.co.ke/storage/uploads/whn6wqri.jpg"
+    },
+    {
+      "name": "EXPENDABLES",
+      "color": "5.00pm to 8.00pm",
+      "price": 950,
+      "qty": 30,
+      "image": "https://centurycinemax.co.ke/storage/uploads/paz4ixh9.jpg"
+
+    }
+  ]
+}
