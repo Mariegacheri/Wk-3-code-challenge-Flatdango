@@ -1,6 +1,6 @@
 ventListener("DOMContentLoaded", function () {
-    const purchaseButton = document.getElementsByClassName("purchase-button");
-    const remainingTicketsElement = document.getElementsByClassName("remaining-tickets");
+    const purchaseButton = document.getElementsById("purchase-button");
+    const remainingTicketsElement = document.getElementsById("remaining-tickets");
   
     // Total tickets available and tickets sold
     let totalTickets = 30;
@@ -19,5 +19,6 @@ ventListener("DOMContentLoaded", function () {
         alert("Sorry, this show is sold out!");
       }
     });
-  });
+});
+
   
